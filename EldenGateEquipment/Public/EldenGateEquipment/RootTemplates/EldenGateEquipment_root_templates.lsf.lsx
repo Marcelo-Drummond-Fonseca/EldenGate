@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>	
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h6143a09-3f8f-4772-a44b-3cee411f5997" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h3352ac6-ea19-4c31-9fed-be4c331ebf7b" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Rivers_of_Blood_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="6b5ce7e7-8a69-4319-bf91-adf5c7ac8c33" />
+					<attribute id="Name" type="LSString" value="RIVERS_OF_BLOOD" />
+					<attribute id="VisualTemplate" type="FixedString" value="3909a5ba-694a-0417-22a0-d471acb11c5a" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1865323f-b428-4791-a0a9-578841e57463" />
+					<attribute id="Stats" type="FixedString" value="RIVERS_OF_BLOOD" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h8f89657-e742-4c2f-b005-ac6b1da6665b" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h0ceaa5f-8e31-417e-81c0-d5b536210863" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_moonveil_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="e11cfacf-e7a3-4ff9-93e3-dd0f325c813e" />
+					<attribute id="Name" type="LSString" value="MOONVEIL" />
+					<attribute id="VisualTemplate" type="FixedString" value="3909a5ba-694a-0417-22a0-d471acb11c5a" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1865323f-b428-4791-a0a9-578841e57463" />
+					<attribute id="Stats" type="FixedString" value="MOONVEIL" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h26c6e4a-d200-48e7-845d-de6db7facc30" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hdd7eb4f-b507-4edf-b030-d98281421c31" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Ruins Greatsword_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="4ee560ab-ee2b-455e-80f4-02f162061bd1" />
+					<attribute id="Name" type="LSString" value="RUINS_GREATSWORD" />
+					<attribute id="VisualTemplate" type="FixedString" value="12f3193c-ce1a-5a69-1bf0-8537b9b606f9" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ecfb9f69-5bc3-402e-acd8-c91d57e28403" />
+					<attribute id="Stats" type="FixedString" value="RUINS_GREATSWORD" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="he523547-9cc9-4dd8-b502-dae1141a05c6" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h4a92112-b397-4e7f-ac1c-d3c0da6a85a6" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Ancient Meteoric Ore Greatsword_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="a7e2a940-a9d7-4077-bd02-0970cca88452" />
+					<attribute id="Name" type="LSString" value="ANCIENT_METEORIC_ORE_GREATSWORD" />
+					<attribute id="VisualTemplate" type="FixedString" value="12f3193c-ce1a-5a69-1bf0-8537b9b606f9" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ecfb9f69-5bc3-402e-acd8-c91d57e28403" />
+					<attribute id="Stats" type="FixedString" value="ANCIENT_METEORIC_ORE_GREATSWORD" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h77a77e3-ac7c-4ef0-86b9-53404a5741e3" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hff5645d-2f5e-4fcc-aeb0-7d12789b65d7" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Antspur Rapier_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="4553b98b-3e48-436d-843c-66308db9dbbb" />
+					<attribute id="Name" type="LSString" value="ANTSPUR_RAPIER" />
+					<attribute id="VisualTemplate" type="FixedString" value="50e9b14b-f72d-0499-3a74-b3ef11facde1" />
+					<attribute id="ParentTemplateId" type="FixedString" value="7061f489-4b13-4982-aa09-cf0ad961e75f" />
+					<attribute id="Stats" type="FixedString" value="ANTSPUR_RAPIER" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h1ebd5c1-d2bf-4f05-9eb6-12cf2561752a" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h059ca78-2ec5-4b7d-8a45-1ac8497722c3" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Axe of Godfrey_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="2cfe5572-5a41-4c32-97c4-23ac69e55773" />
+					<attribute id="Name" type="LSString" value="AXE_OF_GODFREY" />
+					<attribute id="VisualTemplate" type="FixedString" value="48acb403-345d-44cc-b3dd-166cc5772bef" />
+					<attribute id="ParentTemplateId" type="FixedString" value="d5712e24-ce9e-42ce-8fad-6e049b62c28c" />
+					<attribute id="Stats" type="FixedString" value="AXE_OF_GODFREY" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h8fb9db9-d82f-452d-bab2-cfaa9fb1093b" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hca95af2-7255-46ee-a2a4-5061f7eeca19" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Axe of Godrick_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="76fbbced-e9a5-49ac-a8e5-f067397417f6" />
+					<attribute id="Name" type="LSString" value="AXE_OF_GODRICK" />
+					<attribute id="VisualTemplate" type="FixedString" value="3933b136-855c-499a-9bd4-34eec1035e43" />
+					<attribute id="ParentTemplateId" type="FixedString" value="a086b825-8f17-4f0e-855b-178f8cdc515a" />
+					<attribute id="Stats" type="FixedString" value="AXE_OF_GODRICK" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="ha2ef6d8-b864-4701-b634-85709575dd6a" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h786feeb-0569-497b-9e10-217e3383fb29" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Azur Glintstone Staff_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="3016a6d3-5ca6-45df-ae63-aa493f57d55d" />
+					<attribute id="Name" type="LSString" value="AZURS_GLINTSTONE_STAFF" />
+					<attribute id="VisualTemplate" type="FixedString" value="46537c0f-21bf-f64a-c873-50c3ac11e3a3" />
+					<attribute id="ParentTemplateId" type="FixedString" value="96e2abaf-78ff-4dcb-a6a3-a5f0c348bd9f" />
+					<attribute id="Stats" type="FixedString" value="AZURS_GLINTSTONE_STAFF" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h4ef542c-ee34-4613-bf83-30f11adc8b5a" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h8bc21bf-d5f1-448f-831d-b8dc2fece11e" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Barbed Staff Spear_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="91afbbf2-5b80-450f-a68c-23a49b748649" />
+					<attribute id="Name" type="LSString" value="BARBED_STAFFSPEAR" />
+					<attribute id="VisualTemplate" type="FixedString" value="230f4be9-be3e-8924-3a57-bfddadcc4b1d" />
+					<attribute id="ParentTemplateId" type="FixedString" value="baa5b139-42ad-40fd-b6c3-6b52b092c48e" />
+					<attribute id="Stats" type="FixedString" value="BARBED_STAFFSPEAR" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h4e4c4bb-8f0d-43bd-a449-4e1cb3c1167c" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hc030219-906c-4a59-b8f6-abf3fd54a94b" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Bastard's Stars_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="bf20eb8f-08a8-4e44-859a-95d82bf6af25" />
+					<attribute id="Name" type="LSString" value="BASTARDS_STARS" />
+					<attribute id="VisualTemplate" type="FixedString" value="fbce0965-af6e-4dd4-9510-0a1e01873256" />
+					<attribute id="ParentTemplateId" type="FixedString" value="9eadef92-5dd0-408e-9b55-1cf791cafe9d" />
+					<attribute id="Stats" type="FixedString" value="BASTARDS_STARS" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hb9767d9-5cc1-4e38-be68-83e9cc428325" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hcefedf9-e58d-4c4e-a653-6bffd9fa5cd9" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Black Knife_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="a5c1e0f1-c907-4296-aecc-ab0973dcd372" />
+					<attribute id="Name" type="LSString" value="BLACK_KNIFE" />
+					<attribute id="VisualTemplate" type="FixedString" value="564ac843-ea39-4fd9-b9ee-b37cee7e6734" />
+					<attribute id="ParentTemplateId" type="FixedString" value="569b0f3d-abcd-4b01-aaf0-979091288163" />
+					<attribute id="Stats" type="FixedString" value="BLACK_KNIFE" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h13dde4a-e5fd-47ed-8b50-7092ac382bec" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h30ae939-14ff-439d-ba68-05dc96a07a45" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Blade of Calling_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="6592faf7-e3c5-4617-8d6b-d4e5bb76574b" />
+					<attribute id="Name" type="LSString" value="BLADE_OF_CALLING" />
+					<attribute id="VisualTemplate" type="FixedString" value="564ac843-ea39-4fd9-b9ee-b37cee7e6734" />
+					<attribute id="ParentTemplateId" type="FixedString" value="569b0f3d-abcd-4b01-aaf0-979091288163" />
+					<attribute id="Stats" type="FixedString" value="BLADE_OF_CALLING" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hfab1029-8355-421a-bc3c-6c6085168d12" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hca047e0-b2e5-45b1-a9e4-2ade4f7d4619" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Blasphemous Blade_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="94e9a378-d9ec-4136-b52b-6e12437a43fb" />
+					<attribute id="Name" type="LSString" value="BLASPHEMOUS_BLADE" />
+					<attribute id="VisualTemplate" type="FixedString" value="91a755e7-f02c-19cd-8d61-3da7192a8396" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1865323f-b428-4791-a0a9-578841e57463" />
+					<attribute id="Stats" type="FixedString" value="BLASPHEMOUS_BLADE" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="haa478d2-552d-4666-93ab-6f0728a33425" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h1582f4b-46bc-4e68-8d18-d89c8bbcb5d1" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Bloodfiend's Arm_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="6a2d87e3-49cd-435f-b9f9-12646e3bf289" />
+					<attribute id="Name" type="LSString" value="BLOODFIENDS_ARM" />
+					<attribute id="VisualTemplate" type="FixedString" value="0d11747a-31c9-41a7-bb7b-01e3b2d399bc" />
+					<attribute id="ParentTemplateId" type="FixedString" value="5487ceb4-b009-46ae-8ed6-cd3baaf0a18d" />
+					<attribute id="Stats" type="FixedString" value="BLOODFIENDS_ARM" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h332fd0f-c03f-42b4-8656-7eee52a9de81" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h06c2463-8449-4b5a-afc3-c92b9a0ffcf8" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Bloodhound's Fang_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="f2aa9964-a852-45c9-b7ca-cf6bbe46ff54" />
+					<attribute id="Name" type="LSString" value="BLOODHOUNDS_FANG" />
+					<attribute id="VisualTemplate" type="FixedString" value="12f3193c-ce1a-5a69-1bf0-8537b9b606f9" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ecfb9f69-5bc3-402e-acd8-c91d57e28403" />
+					<attribute id="Stats" type="FixedString" value="BLOODHOUNDS_FANG" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h7b439af-d3fa-43b0-bf46-711d793765a5" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hb296c91-53bf-43da-a963-e99055c483d8" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Bolt of Gransax_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="6ca8d993-29df-45ec-91d0-69264b1e5c13" />
+					<attribute id="Name" type="LSString" value="BOLT_OF_GRANSAX" />
+					<attribute id="VisualTemplate" type="FixedString" value="a6d93729-73c3-4bed-8bd6-9cfb43c791e5" />
+					<attribute id="ParentTemplateId" type="FixedString" value="9f0f1c0e-012d-44e1-9b29-86c64d2bf675" />
+					<attribute id="Stats" type="FixedString" value="BOLT_OF_GRANSAX" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h87d1282-9ab8-4547-a95f-65f1e08a1066" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h7f1947a-04b8-46e6-b5e5-15b3ebbd6764" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Carian Regal Scepter_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="7b734708-cb27-4d9e-bec8-1c60c457e978" />
+					<attribute id="Name" type="LSString" value="CARIAN_REGAL_SCEPTER" />
+					<attribute id="VisualTemplate" type="FixedString" value="f3318230-f12d-491b-b46e-4e0bedcc349f" />
+					<attribute id="ParentTemplateId" type="FixedString" value="96e2abaf-78ff-4dcb-a6a3-a5f0c348bd9f" />
+					<attribute id="Stats" type="FixedString" value="CARIAN_REGAL_SCEPTER" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hc1a782c-d3ac-447b-a383-086aeebb3b21" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h4d31c5e-02e3-4727-bb1e-136fd294537a" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Cinquedea_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="61057457-22cc-452f-8927-7ed28fb98025" />
+					<attribute id="Name" type="LSString" value="CINQUEDEA" />
+					<attribute id="VisualTemplate" type="FixedString" value="564ac843-ea39-4fd9-b9ee-b37cee7e6734" />
+					<attribute id="ParentTemplateId" type="FixedString" value="569b0f3d-abcd-4b01-aaf0-979091288163" />
+					<attribute id="Stats" type="FixedString" value="CINQUEDEA" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="haa4f2bd-64c7-4536-a3b0-750565ed9c77" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="he1a5b70-22d2-449a-b856-71780ba36554" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Commander's Standard_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="9db27ade-d173-445f-91c7-8ea4eb1e0092" />
+					<attribute id="Name" type="LSString" value="COMMANDERS_STANDARD" />
+					<attribute id="VisualTemplate" type="FixedString" value="34378c6e-3f93-12a2-872c-afae681b6ce0" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f928a70d-5b23-4605-9cae-5342f9ed206e" />
+					<attribute id="Stats" type="FixedString" value="COMMANDERS_STANDARD" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h50fb855-dd84-4b4f-a50e-dee7b95a1c85" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h8a7937d-276d-4ae2-993d-b298e5a2e1f5" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Dark Moon Greatsword_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="bb008ab9-3cb9-410e-8e0d-25ecb17e7025" />
+					<attribute id="Name" type="LSString" value="DARK_MOON_GREATSWORD" />
+					<attribute id="VisualTemplate" type="FixedString" value="12f3193c-ce1a-5a69-1bf0-8537b9b606f9" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ecfb9f69-5bc3-402e-acd8-c91d57e28403" />
+					<attribute id="Stats" type="FixedString" value="DARK_MOON_GREATSWORD" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hc06ce3b-c5ff-4cff-8e0d-1cda546e33ff" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hc16b485-c0c1-4c3d-8c04-496a45b9b455" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Devourer Scepter_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="4ae4f6db-6cf8-4eeb-860a-ab6d62457711" />
+					<attribute id="Name" type="LSString" value="DEVOURERS_SCEPTER" />
+					<attribute id="VisualTemplate" type="FixedString" value="1cb1363c-f955-e949-a701-de0acca84839" />
+					<attribute id="ParentTemplateId" type="FixedString" value="6b17998d-2e79-405d-8b1f-beb53658312f" />
+					<attribute id="Stats" type="FixedString" value="DEVOURERS_SCEPTER" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h350494b-f89f-459d-a3de-26f81d3e847d" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h9cb4354-e8e2-4b90-8e9c-53a76bf224b2" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Dragon Hunter Great Katana_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="b105c4ba-7bcb-4eaa-b0f2-cec6c525c5ee" />
+					<attribute id="Name" type="LSString" value="DRAGONHUNTERS_GREAT_KATANA" />
+					<attribute id="VisualTemplate" type="FixedString" value="12f3193c-ce1a-5a69-1bf0-8537b9b606f9" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ecfb9f69-5bc3-402e-acd8-c91d57e28403" />
+					<attribute id="Stats" type="FixedString" value="DRAGONHUNTERS_GREAT_KATANA" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="he4ce615-c08e-471b-b0d9-9a8c242800c2" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h97ea3bc-4cd9-416a-9e2a-6c31971f7ce5" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Dragon King's Cragblade_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="5c25af3a-8e4f-43c7-9159-cfec5baa417e" />
+					<attribute id="Name" type="LSString" value="DRAGON_KINGS_CRAGBLADE" />
+					<attribute id="VisualTemplate" type="FixedString" value="12f3193c-ce1a-5a69-1bf0-8537b9b606f9" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ecfb9f69-5bc3-402e-acd8-c91d57e28403" />
+					<attribute id="Stats" type="FixedString" value="DRAGON_KINGS_CRAGBLADE" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h9dbb277-9b2d-4d55-b326-54c26e5708d6" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h7a86762-f835-4aeb-90cd-590af0579a3a" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Eclipse Shotel_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="4e140fd9-3cf4-4df6-afb2-8c3d0bb302a8" />
+					<attribute id="Name" type="LSString" value="ECLIPSE_SHOTEL" />
+					<attribute id="VisualTemplate" type="FixedString" value="75591a35-305c-4a52-b74d-03f8378a2b4a" />
+					<attribute id="ParentTemplateId" type="FixedString" value="50d677ed-3a0e-40e9-8291-ee6823af5672" />
+					<attribute id="Stats" type="FixedString" value="ECLIPSE_SHOTEL" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hf9fb6e6-188c-4656-b02c-9cdac9d98fdc" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="ha3912d5-cc90-4e37-b204-ae00091c5507" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Euporia_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="18cf401c-7db6-439d-9cce-8ffb722eacea" />
+					<attribute id="Name" type="LSString" value="EUPORIA" />
+					<attribute id="VisualTemplate" type="FixedString" value="da91a18e-bee1-45e9-7a3b-e5e99bd02a5a" />
+					<attribute id="ParentTemplateId" type="FixedString" value="99f3b2d9-e03d-4cd5-9a67-5435a95682da" />
+					<attribute id="Stats" type="FixedString" value="EUPORIA" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h59d7bb8-8d4c-40ea-825b-191cb9ceb1ab" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h78fe2c3-1a58-49d7-99ea-6b0b0f0df34c" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Fallingstar Beast Jaw_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="a78ac264-b41f-4d71-b754-90f0c0298f30" />
+					<attribute id="Name" type="LSString" value="FALLINGSTAR_BEAST_JAW" />
+					<attribute id="VisualTemplate" type="FixedString" value="0d11747a-31c9-41a7-bb7b-01e3b2d399bc" />
+					<attribute id="ParentTemplateId" type="FixedString" value="5487ceb4-b009-46ae-8ed6-cd3baaf0a18d" />
+					<attribute id="Stats" type="FixedString" value="FALLINGSTAR_BEAST_JAW" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h1152745-8714-4ec0-b856-72f7c6c77ab1" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h52660eb-79f6-48cf-bd25-fdf51353c592" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Gazing Finger_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="d1434d4e-df43-4c3e-838a-298bb6859f0e" />
+					<attribute id="Name" type="LSString" value="GAZING_FINGER" />
+					<attribute id="VisualTemplate" type="FixedString" value="0d11747a-31c9-41a7-bb7b-01e3b2d399bc" />
+					<attribute id="ParentTemplateId" type="FixedString" value="5487ceb4-b009-46ae-8ed6-cd3baaf0a18d" />
+					<attribute id="Stats" type="FixedString" value="GAZING_FINGER" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hbba6a7e-935b-4c91-ba1f-944a2d2428a2" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="he60358f-7077-40b2-a06d-9d2ff22fed62" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Ghiza's Wheel_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="a71e32bf-4536-4180-b5c0-d5d4547d9b51" />
+					<attribute id="Name" type="LSString" value="GHIZAS_WHEEL" />
+					<attribute id="VisualTemplate" type="FixedString" value="3933b136-855c-499a-9bd4-34eec1035e43" />
+					<attribute id="ParentTemplateId" type="FixedString" value="d5712e24-ce9e-42ce-8fad-6e049b62c28c" />
+					<attribute id="Stats" type="FixedString" value="GHIZAS_WHEEL" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hf1ea998-d52a-4139-9cf3-4c2fe0ac9bd2" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h24ab093-8fc4-4394-bd2b-4add2e8576bd" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Giant Crusher_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="543775aa-e792-4be6-b640-56a1c472acb2" />
+					<attribute id="Name" type="LSString" value="GIANT_CRUSHER" />
+					<attribute id="VisualTemplate" type="FixedString" value="0d11747a-31c9-41a7-bb7b-01e3b2d399bc" />
+					<attribute id="ParentTemplateId" type="FixedString" value="5487ceb4-b009-46ae-8ed6-cd3baaf0a18d" />
+					<attribute id="Stats" type="FixedString" value="GIANT_CRUSHER" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h0481b22-a685-4589-93f7-2efef629a90e" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hd03345e-59e5-4399-8b96-6a36c53914bc" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Glintstone Kris_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="233512c7-e507-4a89-8fed-b4f3e1f22be4" />
+					<attribute id="Name" type="LSString" value="GLINTSTONE_KRIS" />
+					<attribute id="VisualTemplate" type="FixedString" value="564ac843-ea39-4fd9-b9ee-b37cee7e6734" />
+					<attribute id="ParentTemplateId" type="FixedString" value="569b0f3d-abcd-4b01-aaf0-979091288163" />
+					<attribute id="Stats" type="FixedString" value="GLINTSTONE_KRIS" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h1def63b-4ec6-439d-b4df-a5304bf6903e" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h4119e3d-bb10-41de-bd3b-a78c7530f3ed" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Godslayer Greatsword_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="d535a1ac-2088-4179-ba13-bc179a4aa34a" />
+					<attribute id="Name" type="LSString" value="GODSLAYERS_GREATSWORD" />
+					<attribute id="VisualTemplate" type="FixedString" value="12f3193c-ce1a-5a69-1bf0-8537b9b606f9" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ecfb9f69-5bc3-402e-acd8-c91d57e28403" />
+					<attribute id="Stats" type="FixedString" value="GODSLAYERS_GREATSWORD" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hb4deeaa-1b5a-45af-bf6e-dcc91a371dcc" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h575042f-22bd-44ec-b63f-c74668c9778f" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Golden Halberd_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="448d087d-313c-4e37-93c0-6b3a2c9e5462" />
+					<attribute id="Name" type="LSString" value="GOLDEN_HALBERD" />
+					<attribute id="VisualTemplate" type="FixedString" value="34378c6e-3f93-12a2-872c-afae681b6ce0" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f928a70d-5b23-4605-9cae-5342f9ed206e" />
+					<attribute id="Stats" type="FixedString" value="GOLDEN_HALBERD" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h97c3704-6585-494c-8a91-4abb4eb3fbce" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h71cd93e-ab31-471d-82f6-e9a7deb5705a" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Golden Order Greatsword_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="267b2ec4-483f-41a6-8997-19b4f53aaeb2" />
+					<attribute id="Name" type="LSString" value="GOLDEN_ORDER_GREATSWORD" />
+					<attribute id="VisualTemplate" type="FixedString" value="12f3193c-ce1a-5a69-1bf0-8537b9b606f9" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ecfb9f69-5bc3-402e-acd8-c91d57e28403" />
+					<attribute id="Stats" type="FixedString" value="GOLDEN_ORDER_GREATSWORD" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h788ac91-3f6b-4ac0-a341-a291a0be90a5" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h1e12dff-6fd0-42d7-ba86-6b76217adf3f" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Grafted Blade_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="b1aa8c4e-afcd-4c90-bd45-d1731d7c4fbc" />
+					<attribute id="Name" type="LSString" value="GRAFTED_BLADE_GREATSWORD" />
+					<attribute id="VisualTemplate" type="FixedString" value="12f3193c-ce1a-5a69-1bf0-8537b9b606f9" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ecfb9f69-5bc3-402e-acd8-c91d57e28403" />
+					<attribute id="Stats" type="FixedString" value="GRAFTED_BLADE_GREATSWORD" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h04e9864-85f1-44fa-bc79-52022c8e30c0" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h9cfb62e-e77b-4071-81d1-21f67656b28c" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Greatsword of Damnation_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="fa12a40c-9ddf-4881-8a7d-c4bf9a01d027" />
+					<attribute id="Name" type="LSString" value="GREATSWORD_OF_DAMNATION" />
+					<attribute id="VisualTemplate" type="FixedString" value="91a755e7-f02c-19cd-8d61-3da7192a8396" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1865323f-b428-4791-a0a9-578841e57463" />
+					<attribute id="Stats" type="FixedString" value="GREATSWORD_OF_DAMNATION" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h58e8022-c5a3-4278-a069-ccc5fbd506d5" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h54a5e8b-60e1-4ec8-b8bd-b15b727d844b" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Halo Scythe_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="ef436b09-0910-4810-b473-1fb0f528ed6a" />
+					<attribute id="Name" type="LSString" value="HALO_SCYTHE" />
+					<attribute id="VisualTemplate" type="FixedString" value="da91a18e-bee1-45e9-7a3b-e5e99bd02a5a" />
+					<attribute id="ParentTemplateId" type="FixedString" value="99f3b2d9-e03d-4cd5-9a67-5435a95682da" />
+					<attribute id="Stats" type="FixedString" value="HALO_SCYTHE" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h094d7b7-239e-498c-baba-7fc2476bddae" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="heb02fb6-01f9-40b4-8dd1-d5688da4193d" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Hand of Malenia_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="506a1f87-6f9d-494f-b945-abfcc19e3d22" />
+					<attribute id="Name" type="LSString" value="HAND_OF_MALENIA" />
+					<attribute id="VisualTemplate" type="FixedString" value="3909a5ba-694a-0417-22a0-d471acb11c5a" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1865323f-b428-4791-a0a9-578841e57463" />
+					<attribute id="Stats" type="FixedString" value="HAND_OF_MALENIA" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hab49e0f-24fa-487b-8503-78114d752353" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hec6e08b-3b9f-49b2-a0af-07025e232a17" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Hoslow Petal Whip_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="178474b6-78e4-4342-9e4c-b701006597e2" />
+					<attribute id="Name" type="LSString" value="HOSLOWS_PETAL_WHIP" />
+					<attribute id="VisualTemplate" type="FixedString" value="fbce0965-af6e-4dd4-9510-0a1e01873256" />
+					<attribute id="ParentTemplateId" type="FixedString" value="9eadef92-5dd0-408e-9b55-1cf791cafe9d" />
+					<attribute id="Stats" type="FixedString" value="HOSLOWS_PETAL_WHIP" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h6e9f979-0952-4cba-aab5-f94b7306254d" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h882b557-5793-4159-8781-c9658ff2cb08" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Icerind Hatchet_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="504fb218-550a-4f04-8aa7-5a556190a694" />
+					<attribute id="Name" type="LSString" value="ICERIND_HATCHET" />
+					<attribute id="VisualTemplate" type="FixedString" value="bf1f97d8-19a0-4a60-aff7-aa1a3b480d32" />
+					<attribute id="ParentTemplateId" type="FixedString" value="46b64a36-8446-45bd-98e8-ee81e3136baa" />
+					<attribute id="Stats" type="FixedString" value="ICERIND_HATCHET" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h6b7b8c5-bbe5-4767-a161-a5363d63cd3f" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h856d11b-c810-4ae1-9474-35f1b500ed69" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Inseparable Sword_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="25e19bd6-de77-42f4-b988-260d274f582b" />
+					<attribute id="Name" type="LSString" value="INSEPARABLE_SWORD" />
+					<attribute id="VisualTemplate" type="FixedString" value="91a755e7-f02c-19cd-8d61-3da7192a8396" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1865323f-b428-4791-a0a9-578841e57463" />
+					<attribute id="Stats" type="FixedString" value="INSEPARABLE_SWORD" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h56e0636-0111-4e56-a639-e3eec9698adb" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h8d9df8e-ae16-4c9b-9307-50d53c37f83f" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Ledas Sword_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="2a95713e-33e3-46c8-b8c7-d2e1889bb3d1" />
+					<attribute id="Name" type="LSString" value="LEDAS_SWORD" />
+					<attribute id="VisualTemplate" type="FixedString" value="91a755e7-f02c-19cd-8d61-3da7192a8396" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1865323f-b428-4791-a0a9-578841e57463" />
+					<attribute id="Stats" type="FixedString" value="LEDAS_SWORD" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h73d3a8c-3c22-48ac-939a-1d9b28c4e6bc" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h53cb55b-d3aa-4fd8-9584-e60dfab0bc56" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Lion Greabow_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="47ad9524-2ad9-4f28-9736-3e5264a76023" />
+					<attribute id="Name" type="LSString" value="LION_GREATBOW" />
+					<attribute id="VisualTemplate" type="FixedString" value="265dd66e-9a9a-ad78-6af5-0a283052151b" />
+					<attribute id="ParentTemplateId" type="FixedString" value="86e3d864-309c-4c17-ba38-877ce487d481" />
+					<attribute id="Stats" type="FixedString" value="LION_GREATBOW" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h60cad11-c4ff-4daa-a72a-a53b15adf027" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hd14e458-c2f2-471f-b8c1-f42ad0e69313" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Loretta War Sickle_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="0ea55ba8-9c77-401e-a427-ef8a867f1131" />
+					<attribute id="Name" type="LSString" value="LORETTAS_WAR_SICKLE" />
+					<attribute id="VisualTemplate" type="FixedString" value="da91a18e-bee1-45e9-7a3b-e5e99bd02a5a" />
+					<attribute id="ParentTemplateId" type="FixedString" value="99f3b2d9-e03d-4cd5-9a67-5435a95682da" />
+					<attribute id="Stats" type="FixedString" value="LORETTAS_WAR_SICKLE" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h3fb4537-67c2-49ad-8eee-97d3b00b1bfd" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h6aee896-69b4-4069-a244-0e628e68a020" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Lusat Glintstone Staff_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="90ebab87-7523-4262-9999-6152d93a8924" />
+					<attribute id="Name" type="LSString" value="LUSATS_GLINTSTONE_STAFF" />
+					<attribute id="VisualTemplate" type="FixedString" value="f3318230-f12d-491b-b46e-4e0bedcc349f" />
+					<attribute id="ParentTemplateId" type="FixedString" value="96e2abaf-78ff-4dcb-a6a3-a5f0c348bd9f" />
+					<attribute id="Stats" type="FixedString" value="LUSATS_GLINTSTONE_STAFF" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="he2f45e2-10e4-47a8-b1df-eda4319812e8" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hdc7bb5a-9884-414f-9365-474e8089955e" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Maliketh Black Blade_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="92b4945b-1fe6-4c5f-aa71-aa89d3ffee50" />
+					<attribute id="Name" type="LSString" value="MALIKETHS_BLACK_BLADE" />
+					<attribute id="VisualTemplate" type="FixedString" value="12f3193c-ce1a-5a69-1bf0-8537b9b606f9" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ecfb9f69-5bc3-402e-acd8-c91d57e28403" />
+					<attribute id="Stats" type="FixedString" value="MALIKETHS_BLACK_BLADE" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h00e0fb6-9969-4bd5-86c8-1a36316a275b" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h9463809-b90c-471b-8429-b326bcfa042f" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Marais Executioner Sword_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="b7ea9ad3-10d2-4d33-ac40-62274887e7ce" />
+					<attribute id="Name" type="LSString" value="MARAIS_EXECUTIONERS_SWORD" />
+					<attribute id="VisualTemplate" type="FixedString" value="91a755e7-f02c-19cd-8d61-3da7192a8396" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1865323f-b428-4791-a0a9-578841e57463" />
+					<attribute id="Stats" type="FixedString" value="MARAIS_EXECUTIONERS_SWORD" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hd928c3a-c94c-4031-af95-3ba73b0c2714" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h7f27a9d-c2bf-4028-81b1-228ce82ad01b" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Marikas Hammer_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="7b20067f-ecd7-4a35-8e05-8ed589ca867d" />
+					<attribute id="Name" type="LSString" value="MARIKAS_HAMMER" />
+					<attribute id="VisualTemplate" type="FixedString" value="107a48ab-7234-4977-92db-fbed287e987a" />
+					<attribute id="ParentTemplateId" type="FixedString" value="494f21ac-5a1b-4e91-bd30-551b79532516" />
+					<attribute id="Stats" type="FixedString" value="MARIKAS_HAMMER" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h138318b-6d77-431d-bcfb-e4caf5535682" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hccfc7d9-21a1-448c-957b-c24020299463" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Milady_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="8dab33b6-d20f-4955-baff-b64d0bc58915" />
+					<attribute id="Name" type="LSString" value="MILADY" />
+					<attribute id="VisualTemplate" type="FixedString" value="12f3193c-ce1a-5a69-1bf0-8537b9b606f9" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ecfb9f69-5bc3-402e-acd8-c91d57e28403" />
+					<attribute id="Stats" type="FixedString" value="MILADY" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h0a38938-e4ff-49cb-bfa9-711fa5e1b9ca" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h639adce-7389-46c8-b97c-8988ed0bcc6d" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Mohgwyn's Sacred Spear_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="7ec5c74f-543c-4d4e-8020-c99131c41d15" />
+					<attribute id="Name" type="LSString" value="MOHGWYNS_SACRED_SPEAR" />
+					<attribute id="VisualTemplate" type="FixedString" value="3f182a84-833c-10cf-683b-6ea08a5a328c" />
+					<attribute id="ParentTemplateId" type="FixedString" value="d3807461-7c32-44ae-9aba-49ef4d3bf35e" />
+					<attribute id="Stats" type="FixedString" value="MOHGWYNS_SACRED_SPEAR" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h87ac349-21b1-4d7b-8c97-1103a2821862" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h465b378-5249-4abc-84e0-b3cabbf98b2e" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Nagakiba_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="23ae70b2-0ad7-46c4-b87c-adeba00e1f96" />
+					<attribute id="Name" type="LSString" value="NAGAKIBA" />
+					<attribute id="VisualTemplate" type="FixedString" value="3909a5ba-694a-0417-22a0-d471acb11c5a" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1865323f-b428-4791-a0a9-578841e57463" />
+					<attribute id="Stats" type="FixedString" value="NAGAKIBA" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hc868b36-4fe8-44ef-99f3-ddb73e3c0ffc" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="he51126f-8c39-4e28-8099-1d734c4a1946" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Ordoviss Greatsword_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="9eb12d5e-2457-4187-88ba-73e261f14a99" />
+					<attribute id="Name" type="LSString" value="ORDOVISS_GREATSWORD" />
+					<attribute id="VisualTemplate" type="FixedString" value="12f3193c-ce1a-5a69-1bf0-8537b9b606f9" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ecfb9f69-5bc3-402e-acd8-c91d57e28403" />
+					<attribute id="Stats" type="FixedString" value="ORDOVISS_GREATSWORD" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h25d97b2-746f-4189-a94e-64770480f2d3" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hfeefeff-8d02-4214-b8df-4e491b307162" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Poleblade of the Bud_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="59f100dd-87d5-45b5-8161-38943ae2706f" />
+					<attribute id="Name" type="LSString" value="POLEBLADE_OF_THE_BUD" />
+					<attribute id="VisualTemplate" type="FixedString" value="da91a18e-bee1-45e9-7a3b-e5e99bd02a5a" />
+					<attribute id="ParentTemplateId" type="FixedString" value="99f3b2d9-e03d-4cd5-9a67-5435a95682da" />
+					<attribute id="Stats" type="FixedString" value="POLEBLADE_OF_THE_BUD" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h760b759-81db-4c94-a3e0-3b17302d058f" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hdc9610c-6fce-4cf7-bcdf-c4bdc60d60d3" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Prince of Death Staff_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="62efbe30-a8ed-467f-9bba-e2f3cb695962" />
+					<attribute id="Name" type="LSString" value="PRINCE_OF_DEATHS_STAFF" />
+					<attribute id="VisualTemplate" type="FixedString" value="f3318230-f12d-491b-b46e-4e0bedcc349f" />
+					<attribute id="ParentTemplateId" type="FixedString" value="96e2abaf-78ff-4dcb-a6a3-a5f0c348bd9f" />
+					<attribute id="Stats" type="FixedString" value="PRINCE_OF_DEATHS_STAFF" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hef8988a-6fbf-44e9-abd0-8e18a43981a3" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h97fbfba-33b6-4763-8150-a34a217e0166" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Putrescence Cleaver_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="23c95823-7a1c-4ba9-9a14-166a1b85a16a" />
+					<attribute id="Name" type="LSString" value="PUTRESCENCE_CLEAVER" />
+					<attribute id="VisualTemplate" type="FixedString" value="48acb403-345d-44cc-b3dd-166cc5772bef" />
+					<attribute id="ParentTemplateId" type="FixedString" value="d5712e24-ce9e-42ce-8fad-6e049b62c28c" />
+					<attribute id="Stats" type="FixedString" value="PUTRESCENCE_CLEAVER" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hc4fcc2e-0e30-4699-81f4-53f17042a2b7" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hcb95d11-0a67-450c-8843-011385a4eae0" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Reduvia_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="3c9adecd-42d1-414c-9d66-29f7b77e5a0b" />
+					<attribute id="Name" type="LSString" value="REDUVIA" />
+					<attribute id="VisualTemplate" type="FixedString" value="564ac843-ea39-4fd9-b9ee-b37cee7e6734" />
+					<attribute id="ParentTemplateId" type="FixedString" value="569b0f3d-abcd-4b01-aaf0-979091288163" />
+					<attribute id="Stats" type="FixedString" value="REDUVIA" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h6e0115d-749b-427d-87af-21dd1f31fcf2" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hc666da5-46a1-40a0-b212-22161ec0dde1" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Rellanas Twin Blades_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="da14c668-d799-46ac-9a56-139f11ba7a41" />
+					<attribute id="Name" type="LSString" value="RELLANAS_TWIN_BLADES" />
+					<attribute id="VisualTemplate" type="FixedString" value="12f3193c-ce1a-5a69-1bf0-8537b9b606f9" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ecfb9f69-5bc3-402e-acd8-c91d57e28403" />
+					<attribute id="Stats" type="FixedString" value="RELLANAS_TWIN_BLADES" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h0d46506-527d-46f5-b650-5ae57ce5e723" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hbd0688a-456f-4e60-83e0-a8ca57e508eb" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Ringed Finger_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="55742205-a0eb-4c8a-ac06-ce626f5525d0" />
+					<attribute id="Name" type="LSString" value="RINGED_FINGER" />
+					<attribute id="VisualTemplate" type="FixedString" value="63696547-0b31-4b4d-aa37-970d4160af1d" />
+					<attribute id="ParentTemplateId" type="FixedString" value="d9c87013-1f41-4c17-b71d-f353ec0d64e8" />
+					<attribute id="Stats" type="FixedString" value="RINGED_FINGER" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="he72a5f8-b492-4cd8-bd77-4f2af8d5f058" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h435ab49-55c3-48f1-8c53-0d0fadb690ee" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Rogier's Rapier_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="499ea088-c119-41c2-b70f-576b7fab924c" />
+					<attribute id="Name" type="LSString" value="ROGIERS_RAPIER" />
+					<attribute id="VisualTemplate" type="FixedString" value="098e16ca-2805-18f8-791c-0b2ea970ecaf" />
+					<attribute id="ParentTemplateId" type="FixedString" value="7061f489-4b13-4982-aa09-cf0ad961e75f" />
+					<attribute id="Stats" type="FixedString" value="ROGIERS_RAPIER" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hff5a928-d024-419c-a0f1-666eaafd9f19" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="he30a582-5525-48db-b510-f9fa4f872357" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Sacred Relic Sword_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="866143d6-86da-44c2-82fb-ea4c705a4813" />
+					<attribute id="Name" type="LSString" value="SACRED_RELIC_SWORD" />
+					<attribute id="VisualTemplate" type="FixedString" value="91a755e7-f02c-19cd-8d61-3da7192a8396" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1865323f-b428-4791-a0a9-578841e57463" />
+					<attribute id="Stats" type="FixedString" value="SACRED_RELIC_SWORD" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h8c825d2-2e14-4d0d-8aea-252765d5f69d" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h741cdb2-36aa-4ff7-99bd-c11c6431a36f" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Scepter of the All Knowing_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="19de4eef-80f4-4a60-9c55-178c26c55a1a" />
+					<attribute id="Name" type="LSString" value="SCEPTER_OF_THE_ALLKNOWING" />
+					<attribute id="VisualTemplate" type="FixedString" value="f3318230-f12d-491b-b46e-4e0bedcc349f" />
+					<attribute id="ParentTemplateId" type="FixedString" value="96e2abaf-78ff-4dcb-a6a3-a5f0c348bd9f" />
+					<attribute id="Stats" type="FixedString" value="SCEPTER_OF_THE_ALLKNOWING" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h39b710f-ce9a-4fc7-a5cf-f3588e9731ef" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h510fe06-7b9f-41fb-97af-70ef91a07975" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Serpent Hunter_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="ea165080-25c2-4cab-8198-62a6a8c1aca9" />
+					<attribute id="Name" type="LSString" value="SERPENTHUNTER" />
+					<attribute id="VisualTemplate" type="FixedString" value="4e43ddbd-6073-4f6f-ba9e-0ef2f2903f7b" />
+					<attribute id="ParentTemplateId" type="FixedString" value="baa5b139-42ad-40fd-b6c3-6b52b092c48e" />
+					<attribute id="Stats" type="FixedString" value="SERPENTHUNTER" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h1471ab0-5a54-4ecd-9c48-3a10b12b5432" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="ha377469-ade3-4521-a778-9092a8187cb7" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Shadow Sunflower Blossom_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="b366cf0f-75a7-4a48-8844-8b308f913585" />
+					<attribute id="Name" type="LSString" value="SHADOW_SUNFLOWER_BLOSSOM" />
+					<attribute id="VisualTemplate" type="FixedString" value="0d11747a-31c9-41a7-bb7b-01e3b2d399bc" />
+					<attribute id="ParentTemplateId" type="FixedString" value="5487ceb4-b009-46ae-8ed6-cd3baaf0a18d" />
+					<attribute id="Stats" type="FixedString" value="SHADOW_SUNFLOWER_BLOSSOM" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h36ff3e2-8663-42d9-a8e8-997e34e9a09c" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hd796364-d45c-43b8-9205-d66b04b9d3bb" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Siluria's Tree_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="299718e1-a23b-4752-b097-a2393c4e1d11" />
+					<attribute id="Name" type="LSString" value="SILURIAS_TREE" />
+					<attribute id="VisualTemplate" type="FixedString" value="4e43ddbd-6073-4f6f-ba9e-0ef2f2903f7b" />
+					<attribute id="ParentTemplateId" type="FixedString" value="baa5b139-42ad-40fd-b6c3-6b52b092c48e" />
+					<attribute id="Stats" type="FixedString" value="SILURIAS_TREE" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h106bfba-49f3-44ff-be7d-de2ac65dc49d" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h4f4bf30-df29-46fe-9889-43517d6a5710" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Spear of the Impaler_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="33bf86e6-1ab5-4171-9841-ca93c6975631" />
+					<attribute id="Name" type="LSString" value="SPEAR_OF_THE_IMPALER" />
+					<attribute id="VisualTemplate" type="FixedString" value="4e43ddbd-6073-4f6f-ba9e-0ef2f2903f7b" />
+					<attribute id="ParentTemplateId" type="FixedString" value="baa5b139-42ad-40fd-b6c3-6b52b092c48e" />
+					<attribute id="Stats" type="FixedString" value="SPEAR_OF_THE_IMPALER" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hf51c086-32f2-4c2c-bedf-0c1ccb205a70" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h149783e-5b07-4f61-a73a-06a1684526a9" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Staff of the Avatar_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="293fb1b2-9f08-41da-84f4-36f5924c7ff6" />
+					<attribute id="Name" type="LSString" value="STAFF_OF_THE_AVATAR" />
+					<attribute id="VisualTemplate" type="FixedString" value="0d11747a-31c9-41a7-bb7b-01e3b2d399bc" />
+					<attribute id="ParentTemplateId" type="FixedString" value="5487ceb4-b009-46ae-8ed6-cd3baaf0a18d" />
+					<attribute id="Stats" type="FixedString" value="STAFF_OF_THE_AVATAR" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hcc8e3a2-4a3c-46c9-881b-ac9df609336f" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h8227987-7f20-44e1-bda4-cf5f4df14a8b" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Staff of the Great Beyond_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="c9d02f16-5f13-47e8-817d-2e0f6c78aeae" />
+					<attribute id="Name" type="LSString" value="STAFF_OF_THE_GREAT_BEYOND" />
+					<attribute id="VisualTemplate" type="FixedString" value="f3318230-f12d-491b-b46e-4e0bedcc349f" />
+					<attribute id="ParentTemplateId" type="FixedString" value="96e2abaf-78ff-4dcb-a6a3-a5f0c348bd9f" />
+					<attribute id="Stats" type="FixedString" value="STAFF_OF_THE_GREAT_BEYOND" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h795fa6f-ce08-43bc-afb3-a4b0c7345c1d" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="he15093a-b4f8-4ed5-962b-d7c68c44d53e" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Starscourge Greatsword_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="6dc1536f-8957-41bd-89ef-7ca1610e8571" />
+					<attribute id="Name" type="LSString" value="STARSCOURGE_GREATSWORD" />
+					<attribute id="VisualTemplate" type="FixedString" value="12f3193c-ce1a-5a69-1bf0-8537b9b606f9" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ecfb9f69-5bc3-402e-acd8-c91d57e28403" />
+					<attribute id="Stats" type="FixedString" value="STARSCOURGE_GREATSWORD" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hbea8314-a4a3-4166-8515-9d10bcf04ac0" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hfb72cdf-1d28-42aa-92fd-ce46e2a057e3" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Sword Lance_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="7ac71e90-4f52-4a61-9a7b-4e990b201b12" />
+					<attribute id="Name" type="LSString" value="SWORD_LANCE" />
+					<attribute id="VisualTemplate" type="FixedString" value="4e43ddbd-6073-4f6f-ba9e-0ef2f2903f7b" />
+					<attribute id="ParentTemplateId" type="FixedString" value="baa5b139-42ad-40fd-b6c3-6b52b092c48e" />
+					<attribute id="Stats" type="FixedString" value="SWORD_LANCE" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hf684631-c5d6-48bb-9989-302670c534e5" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h841a3f3-a689-4b5d-8227-21f06604c5e8" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Sword of Darkness_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="2739b342-6dc4-4889-8ff9-66b821f63b8a" />
+					<attribute id="Name" type="LSString" value="SWORD_OF_DARKNESS" />
+					<attribute id="VisualTemplate" type="FixedString" value="f93bc0ca-6b76-11ac-0de3-4142dfc8f48e" />
+					<attribute id="ParentTemplateId" type="FixedString" value="467ddb4f-6791-41fa-99f7-ee8620d63bbe" />
+					<attribute id="Stats" type="FixedString" value="SWORD_OF_DARKNESS" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h6f9b183-8b96-4315-8cb5-1bad64cc4620" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hf888769-5a0c-4e96-a8c0-b5ed511fbaac" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Sword of Light_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="f4a81920-877e-4b49-b715-5b7f578c851e" />
+					<attribute id="Name" type="LSString" value="SWORD_OF_LIGHT" />
+					<attribute id="VisualTemplate" type="FixedString" value="f93bc0ca-6b76-11ac-0de3-4142dfc8f48e" />
+					<attribute id="ParentTemplateId" type="FixedString" value="467ddb4f-6791-41fa-99f7-ee8620d63bbe" />
+					<attribute id="Stats" type="FixedString" value="SWORD_OF_LIGHT" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="he11f7e5-487a-4270-8036-80e4b803503e" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="heaa59bb-684f-473d-a210-8db6bbcef39a" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Sword of Milos_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="c9777aae-8ede-4ed8-9e13-d4b53a0a910b" />
+					<attribute id="Name" type="LSString" value="SWORD_OF_MILOS" />
+					<attribute id="VisualTemplate" type="FixedString" value="91a755e7-f02c-19cd-8d61-3da7192a8396" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1865323f-b428-4791-a0a9-578841e57463" />
+					<attribute id="Stats" type="FixedString" value="SWORD_OF_MILOS" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hcfba1bb-77cd-466e-97e6-f219170d49e9" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h2ffb7ec-24a6-4067-9edf-b5df5a8208ca" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Sword of Night and Flame_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="a9bf19c7-e6c8-44aa-8026-d8a11e3dc100" />
+					<attribute id="Name" type="LSString" value="SWORD_OF_NIGHT_AND_FLAME" />
+					<attribute id="VisualTemplate" type="FixedString" value="f93bc0ca-6b76-11ac-0de3-4142dfc8f48e" />
+					<attribute id="ParentTemplateId" type="FixedString" value="467ddb4f-6791-41fa-99f7-ee8620d63bbe" />
+					<attribute id="Stats" type="FixedString" value="SWORD_OF_NIGHT_AND_FLAME" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hbb6fff4-15ca-438b-ab98-d18a62756ecc" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h96122d5-8877-496a-8494-0dd7c7594368" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Tooth Whip_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="af4eed85-3c1f-4c50-ae5c-e39584c00e9a" />
+					<attribute id="Name" type="LSString" value="TOOTH_WHIP" />
+					<attribute id="VisualTemplate" type="FixedString" value="fbce0965-af6e-4dd4-9510-0a1e01873256" />
+					<attribute id="ParentTemplateId" type="FixedString" value="9eadef92-5dd0-408e-9b55-1cf791cafe9d" />
+					<attribute id="Stats" type="FixedString" value="TOOTH_WHIP" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h8591b9a-e023-4e55-af7a-db0ea3cf6535" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h4fdc21e-08e7-4b84-9195-5dddce3b655d" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Velvet Sword of St Trina_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="862faf19-cad3-4ce9-9772-c06fd1d2c441" />
+					<attribute id="Name" type="LSString" value="VELVET_SWORD_OF_ST_TRINA" />
+					<attribute id="VisualTemplate" type="FixedString" value="f93bc0ca-6b76-11ac-0de3-4142dfc8f48e" />
+					<attribute id="ParentTemplateId" type="FixedString" value="467ddb4f-6791-41fa-99f7-ee8620d63bbe" />
+					<attribute id="Stats" type="FixedString" value="VELVET_SWORD_OF_ST_TRINA" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h338058e-86e5-4659-b5c3-51f19a6694fd" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="ha344458-7319-49c7-8a73-8c9516b6dc22" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Vyke's War Spear_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="85ad4726-36e7-490a-bd01-dc0f719be3bb" />
+					<attribute id="Name" type="LSString" value="VYKES_WAR_SPEAR" />
+					<attribute id="VisualTemplate" type="FixedString" value="4e43ddbd-6073-4f6f-ba9e-0ef2f2903f7b" />
+					<attribute id="ParentTemplateId" type="FixedString" value="baa5b139-42ad-40fd-b6c3-6b52b092c48e" />
+					<attribute id="Stats" type="FixedString" value="VYKES_WAR_SPEAR" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h3b51c2c-cc65-4e52-b4c1-62b56669f829" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hc69435b-3d7f-473d-88de-033fec22129e" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Watchdog's Staff_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="e646b91f-0c82-4786-8cef-e5189dd7309a" />
+					<attribute id="Name" type="LSString" value="WATCHDOGS_STAFF" />
+					<attribute id="VisualTemplate" type="FixedString" value="0d11747a-31c9-41a7-bb7b-01e3b2d399bc" />
+					<attribute id="ParentTemplateId" type="FixedString" value="5487ceb4-b009-46ae-8ed6-cd3baaf0a18d" />
+					<attribute id="Stats" type="FixedString" value="WATCHDOGS_STAFF" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hc30d519-c0e3-421f-b4ec-75b436829c36" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hd1ad5d4-6bc5-4a89-a5c7-c80dd4d37f01" version="1" />
+					<attribute id="Icon" type="FixedString" value="EldenGateEquipment_Wing of Astel_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="e93e551a-413a-43f6-ab08-ce8549cbbc77" />
+					<attribute id="Name" type="LSString" value="WING_OF_ASTEL" />
+					<attribute id="VisualTemplate" type="FixedString" value="2980f3d2-483b-f595-f466-a10cd26d555d" />
+					<attribute id="ParentTemplateId" type="FixedString" value="868217db-9dcb-414c-bb88-e321ab3e0349" />
+					<attribute id="Stats" type="FixedString" value="WING_OF_ASTEL" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+				
+			</children>
+		</node>
+	</region>
+</save>

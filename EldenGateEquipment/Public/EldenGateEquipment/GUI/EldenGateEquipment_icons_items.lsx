@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" />  <!--This file is not converted to lsf!-->
+	<region id="TextureAtlasInfo"> 
+		<node id="root">
+			<children>
+				<node id="TextureAtlasIconSize">
+					<attribute id="Height" type="int64" value="64"/>
+					<attribute id="Width" type="int64" value="64"/>
+				</node>
+				<node id="TextureAtlasPath">
+					<attribute id="Path" type="LSString" value="Assets/Textures/Icons/EldenGateEquipment_icons.DDS"/>
+					<attribute id="UUID" type="FixedString" value="e5f7c76e-0a17-4604-8e2d-1ebe06b9dd4b"/>
+				</node>
+				<node id="TextureAtlasTextureSize">
+					<attribute id="Height" type="int64" value="81"/>
+					<attribute id="Width" type="int64" value="81"/>
+				</node>
+			</children>
+		</node>
+	</region>
+	<region id="IconUVList">
+		<node id="root">
+			<children>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Rivers_of_Blood_ICON"/> 1
+					<attribute id="U1" type="float" value="0.0"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.11111111"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.0"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.11111111"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_moonveil_ICON"/> 1
+					<attribute id="U1" type="float" value="0.11111111"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.22222222"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.0"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.11111111"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Ruins Greatsword_ICON"/> 1
+					<attribute id="U1" type="float" value="0.22222222"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.33333334"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.0"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.11111111"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Ancient Meteoric Ore Greatsword_ICON"/> 1
+					<attribute id="U1" type="float" value="0.33333334"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.44444445"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.0"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.11111111"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Antspur Rapier_ICON"/> 1
+					<attribute id="U1" type="float" value="0.44444445"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.5555556"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.0"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.11111111"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Axe of Godfrey_ICON"/> 1
+					<attribute id="U1" type="float" value="0.5555556"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.6666667"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.0"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.11111111"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Axe of Godrick_ICON"/> 1
+					<attribute id="U1" type="float" value="0.6666667"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.7777778"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.0"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.11111111"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Azur Glintstone Staff_ICON"/> 1
+					<attribute id="U1" type="float" value="0.7777778"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.8888889"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.0"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.11111111"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Barbed Staff Spear_ICON"/> 1
+					<attribute id="U1" type="float" value="0.8888889"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="1.0"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.0"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.11111111"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Bastard's Stars_ICON"/> 1
+					<attribute id="U1" type="float" value="0.0"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.11111111"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.11111111"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.22222222"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Black Knife_ICON"/> 1
+					<attribute id="U1" type="float" value="0.11111111"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.22222222"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.11111111"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.22222222"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Blade of Calling_ICON"/> 1
+					<attribute id="U1" type="float" value="0.22222222"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.33333334"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.11111111"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.22222222"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Blasphemous Blade_ICON"/> 1
+					<attribute id="U1" type="float" value="0.33333334"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.44444445"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.11111111"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.22222222"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Bloodfiend's Arm_ICON"/> 1
+					<attribute id="U1" type="float" value="0.44444445"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.5555556"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.11111111"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.22222222"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Bloodhound's Fang_ICON"/> 1
+					<attribute id="U1" type="float" value="0.5555556"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.6666667"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.11111111"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.22222222"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Bolt of Gransax_ICON"/> 1
+					<attribute id="U1" type="float" value="0.6666667"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.7777778"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.11111111"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.22222222"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Carian Regal Scepter_ICON"/> 1
+					<attribute id="U1" type="float" value="0.7777778"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.8888889"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.11111111"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.22222222"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Cinquedea_ICON"/> 1
+					<attribute id="U1" type="float" value="0.8888889"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="1.0"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.11111111"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.22222222"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Commander's Standard_ICON"/> 1
+					<attribute id="U1" type="float" value="0.0"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.11111111"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.22222222"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.33333334"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Dark Moon Greatsword_ICON"/> 1
+					<attribute id="U1" type="float" value="0.11111111"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.22222222"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.22222222"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.33333334"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Devourer Scepter_ICON"/> 1
+					<attribute id="U1" type="float" value="0.22222222"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.33333334"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.22222222"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.33333334"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Dragon Hunter Great Katana_ICON"/> 1
+					<attribute id="U1" type="float" value="0.33333334"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.44444445"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.22222222"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.33333334"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Dragon King's Cragblade_ICON"/> 1
+					<attribute id="U1" type="float" value="0.44444445"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.5555556"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.22222222"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.33333334"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Eclipse Shotel_ICON"/> 1
+					<attribute id="U1" type="float" value="0.5555556"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.6666667"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.22222222"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.33333334"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Euporia_ICON"/> 1
+					<attribute id="U1" type="float" value="0.6666667"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.7777778"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.22222222"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.33333334"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Fallingstar Beast Jaw_ICON"/> 1
+					<attribute id="U1" type="float" value="0.7777778"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.8888889"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.22222222"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.33333334"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Gazing Finger_ICON"/> 1
+					<attribute id="U1" type="float" value="0.8888889"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="1.0"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.22222222"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.33333334"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Ghiza's Wheel_ICON"/> 1
+					<attribute id="U1" type="float" value="0.0"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.11111111"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.33333334"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.44444445"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Giant Crusher_ICON"/> 1
+					<attribute id="U1" type="float" value="0.11111111"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.22222222"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.33333334"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.44444445"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Glintstone Kris_ICON"/> 1
+					<attribute id="U1" type="float" value="0.22222222"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.33333334"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.33333334"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.44444445"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Godslayer Greatsword_ICON"/> 1
+					<attribute id="U1" type="float" value="0.33333334"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.44444445"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.33333334"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.44444445"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Golden Halberd_ICON"/> 1
+					<attribute id="U1" type="float" value="0.44444445"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.5555556"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.33333334"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.44444445"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Golden Order Greatsword_ICON"/> 1
+					<attribute id="U1" type="float" value="0.5555556"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.6666667"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.33333334"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.44444445"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Grafted Blade_ICON"/> 1
+					<attribute id="U1" type="float" value="0.6666667"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.7777778"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.33333334"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.44444445"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Greatsword of Damnation_ICON"/> 1
+					<attribute id="U1" type="float" value="0.7777778"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.8888889"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.33333334"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.44444445"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Halo Scythe_ICON"/> 1
+					<attribute id="U1" type="float" value="0.8888889"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="1.0"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.33333334"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.44444445"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Hand of Malenia_ICON"/> 1
+					<attribute id="U1" type="float" value="0.0"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.11111111"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.44444445"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.5555556"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Hoslow Petal Whip_ICON"/> 1
+					<attribute id="U1" type="float" value="0.11111111"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.22222222"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.44444445"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.5555556"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Icerind Hatchet_ICON"/> 1
+					<attribute id="U1" type="float" value="0.22222222"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.33333334"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.44444445"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.5555556"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Inseparable Sword_ICON"/> 1
+					<attribute id="U1" type="float" value="0.33333334"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.44444445"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.44444445"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.5555556"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Ledas Sword_ICON"/> 1
+					<attribute id="U1" type="float" value="0.44444445"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.5555556"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.44444445"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.5555556"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Lion Greabow_ICON"/> 1
+					<attribute id="U1" type="float" value="0.5555556"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.6666667"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.44444445"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.5555556"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Loretta War Sickle_ICON"/> 1
+					<attribute id="U1" type="float" value="0.6666667"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.7777778"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.44444445"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.5555556"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Lusat Glintstone Staff_ICON"/> 1
+					<attribute id="U1" type="float" value="0.7777778"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.8888889"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.44444445"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.5555556"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Maliketh Black Blade_ICON"/> 1
+					<attribute id="U1" type="float" value="0.8888889"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="1.0"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.44444445"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.5555556"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Marais Executioner Sword_ICON"/> 1
+					<attribute id="U1" type="float" value="0.0"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.11111111"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.5555556"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.6666667"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Marikas Hammer_ICON"/> 1
+					<attribute id="U1" type="float" value="0.11111111"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.22222222"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.5555556"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.6666667"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Milady_ICON"/> 1
+					<attribute id="U1" type="float" value="0.22222222"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.33333334"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.5555556"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.6666667"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Mohgwyn's Sacred Spear_ICON"/> 1
+					<attribute id="U1" type="float" value="0.33333334"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.44444445"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.5555556"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.6666667"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Nagakiba_ICON"/> 1
+					<attribute id="U1" type="float" value="0.44444445"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.5555556"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.5555556"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.6666667"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Ordoviss Greatsword_ICON"/> 1
+					<attribute id="U1" type="float" value="0.5555556"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.6666667"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.5555556"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.6666667"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Poleblade of the Bud_ICON"/> 1
+					<attribute id="U1" type="float" value="0.6666667"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.7777778"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.5555556"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.6666667"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Prince of Death Staff_ICON"/> 1
+					<attribute id="U1" type="float" value="0.7777778"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.8888889"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.5555556"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.6666667"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Putrescence Cleaver_ICON"/> 1
+					<attribute id="U1" type="float" value="0.8888889"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="1.0"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.5555556"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.6666667"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Reduvia_ICON"/> 1
+					<attribute id="U1" type="float" value="0.0"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.11111111"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.6666667"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.7777778"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Rellanas Twin Blades_ICON"/> 1
+					<attribute id="U1" type="float" value="0.11111111"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.22222222"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.6666667"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.7777778"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Ringed Finger_ICON"/> 1
+					<attribute id="U1" type="float" value="0.22222222"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.33333334"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.6666667"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.7777778"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Rogier's Rapier_ICON"/> 1
+					<attribute id="U1" type="float" value="0.33333334"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.44444445"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.6666667"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.7777778"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Sacred Relic Sword_ICON"/> 1
+					<attribute id="U1" type="float" value="0.44444445"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.5555556"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.6666667"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.7777778"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Scepter of the All Knowing_ICON"/> 1
+					<attribute id="U1" type="float" value="0.5555556"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.6666667"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.6666667"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.7777778"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Serpent Hunter_ICON"/> 1
+					<attribute id="U1" type="float" value="0.6666667"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.7777778"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.6666667"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.7777778"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Shadow Sunflower Blossom_ICON"/> 1
+					<attribute id="U1" type="float" value="0.7777778"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.8888889"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.6666667"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.7777778"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Siluria's Tree_ICON"/> 1
+					<attribute id="U1" type="float" value="0.8888889"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="1.0"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.6666667"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.7777778"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Spear of the Impaler_ICON"/> 1
+					<attribute id="U1" type="float" value="0.0"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.11111111"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.7777778"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.8888889"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Staff of the Avatar_ICON"/> 1
+					<attribute id="U1" type="float" value="0.11111111"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.22222222"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.7777778"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.8888889"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Staff of the Great Beyond_ICON"/> 1
+					<attribute id="U1" type="float" value="0.22222222"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.33333334"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.7777778"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.8888889"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Starscourge Greatsword_ICON"/> 1
+					<attribute id="U1" type="float" value="0.33333334"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.44444445"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.7777778"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.8888889"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Sword Lance_ICON"/> 1
+					<attribute id="U1" type="float" value="0.44444445"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.5555556"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.7777778"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.8888889"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Sword of Darkness_ICON"/> 1
+					<attribute id="U1" type="float" value="0.5555556"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.6666667"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.7777778"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.8888889"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Sword of Light_ICON"/> 1
+					<attribute id="U1" type="float" value="0.6666667"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.7777778"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.7777778"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.8888889"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Sword of Milos_ICON"/> 1
+					<attribute id="U1" type="float" value="0.7777778"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.8888889"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.7777778"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.8888889"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Sword of Night and Flame_ICON"/> 1
+					<attribute id="U1" type="float" value="0.8888889"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="1.0"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.7777778"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="0.8888889"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Tooth Whip_ICON"/> 1
+					<attribute id="U1" type="float" value="0.0"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.11111111"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.8888889"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="1.0"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Velvet Sword of St Trina_ICON"/> 1
+					<attribute id="U1" type="float" value="0.11111111"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.22222222"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.8888889"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="1.0"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Vyke's War Spear_ICON"/> 1
+					<attribute id="U1" type="float" value="0.22222222"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.33333334"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.8888889"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="1.0"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Watchdog's Staff_ICON"/> 1
+					<attribute id="U1" type="float" value="0.33333334"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.44444445"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.8888889"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="1.0"/> <!--Bottom side of icon-->
+				</node>
+				<node id="IconUV">
+					<attribute id="MapKey" type="FixedString" value="EldenGateEquipment_Wing of Astel_ICON"/> 1
+					<attribute id="U1" type="float" value="0.44444445"/> <!--Left side of icon-->
+					<attribute id="U2" type="float" value="0.5555556"/> <!--Right side of icon-->
+					<attribute id="V1" type="float" value="0.8888889"/> <!--Top side of icon-->
+					<attribute id="V2" type="float" value="1.0"/> <!--Bottom side of icon-->
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
